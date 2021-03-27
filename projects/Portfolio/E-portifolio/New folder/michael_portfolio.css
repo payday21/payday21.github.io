@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+/*
+  New Perspectives on HTML5 and CSS3, 7th Edition
+    Tutorial 3
+    Tutorial Case
+    
+    Home Page of Pandaisia Chocolates
+    Author: Michael Abraham
+    Date:  10/21/2019 
+
+    Filename: michael_potfolio_home.css
+
+*/
+
+/* HTML and Body Styles */
+header img {
+  display: block;
+}
+/* p {
+  padding: 50%;
+} */
+/* Form Layout Style */
+form#survey {    
+  display: -webkit-flex;    
+  display: flex;    
+  -webkit-flex-flow: row wrap;    
+  flex-flow: row wrap;
+ }
+ form#survey > fieldset {    
+   background-color: rgb(241, 232, 181);   
+    border-radius: 20px;    
+    -webkit-flex: 1 1 300px;    
+    flex: 1 1 300px;    
+    font-size: 0.85em;    
+    padding: 10px;    
+    margin: 10px
+ }
+div.formRow {    
+  display: -webkit-flex;    
+  display: flex;    
+  -webkit-flex-flow: row wrap;    
+  flex-flow: row wrap;    
+  margin: 7px 0px; 
+}
+div.formRow > * {    
+  -webkit-flex: 1 1 150px;   
+   flex: 1 1 150px; }
+/* Legend Styles */
+
+legend {   
+    background-color: rgb(179, 20, 25);    
+    color: white;    
+    padding: 5px; 
+}
+p {
+  padding-left: 30%;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+
+
+
+
