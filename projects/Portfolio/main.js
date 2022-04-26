@@ -3,7 +3,7 @@
 
 (function(){
     var greenIcon = L.icon({
-    iconUrl: 'plane4-45.png',
+    iconUrl: '../images/img/plane4-45.png',
    
 
     iconSize:     [38, 38], // size of the icon
