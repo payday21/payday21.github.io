@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"] 
+  path = project/threeinarow 
+  url = git://payday21.github.io/

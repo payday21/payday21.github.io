@@ -1,0 +1,32 @@
+table {
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+    padding: 40px;        
+}
+
+/* currentState = 2 */
+.green
+{
+    background-color: green;
+}
+
+/* currentState = 1 */
+.yellow
+{
+    background-color: yellow;
+}
+
+/* currentState = 0 */
+.red
+{
+    background-color: red;
+}
+
+.black
+{
+    background-color: black;
+}
