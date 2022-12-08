@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/payday21/payday21.github.io#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
